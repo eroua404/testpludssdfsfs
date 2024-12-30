@@ -1,0 +1,68 @@
+@import 'components/rating-stars';
+
+.tasty-recipes-comment-form {
+		border: none;
+		padding: 0;
+		margin: 0;
+
+	.tasty-recipes-ratings-buttons {
+		unicode-bidi: bidi-override;
+		direction: rtl;
+		text-align: left;
+		display: block;
+		input[type="radio"] {
+			clip: initial;
+		}
+		> span {
+			display: inline-block;
+			position: relative;
+			width: 1.1em;
+			i {
+				font-style: normal;
+			}
+			.unchecked {
+				display: inline-block;
+			}
+			.checked {
+				display: none;
+			}
+		}
+
+		> input:checked ~ span {
+			.unchecked {
+				display: none;
+			}
+			.checked {
+				display: inline-block;
+			}
+		}
+
+		@media only screen and (min-width : 1024px) {
+
+			& > *:hover,
+			& > *:hover ~ span,
+			&:not(:hover) > input:checked ~ span {
+				.unchecked {
+					display: none;
+				}
+				.checked {
+					display: inline-block;
+				}
+			}
+		}
+
+
+		> input {
+			margin-left:-1.4em;
+			margin-right:0;
+			width:1.2em;
+			height:1.3em;
+			position:relative;
+			z-index:2;
+			opacity:0;
+			cursor: pointer;
+		}
+
+	}
+}
+
