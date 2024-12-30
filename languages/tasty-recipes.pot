@@ -1,0 +1,1020 @@
+# Copyright (C) 2022 WP Tasty
+# This file is distributed under the same license as the Tasty Recipes plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tasty Recipes 3.6.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/tasty-recipes\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-30T18:43:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: tasty-recipes\n"
+
+#. Plugin Name of the plugin
+#: inc/class-admin.php:264
+#: inc/class-admin.php:811
+msgid "Tasty Recipes"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.wptasty.com/tasty-recipes"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tasty Recipes is the easiest way to publish recipes on your WordPress blog."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Tasty"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wptasty.com"
+msgstr ""
+
+#: inc/class-admin.php:283
+msgid "Tasty Recipes is almost ready"
+msgstr ""
+
+#: inc/class-admin.php:283
+msgid "enter your license key to continue"
+msgstr ""
+
+#: inc/class-admin.php:285
+#: inc/class-admin.php:309
+msgid "Save license key"
+msgstr ""
+
+#: inc/class-admin.php:288
+msgid "Don't have a Tasty Recipes license yet?"
+msgstr ""
+
+#: inc/class-admin.php:288
+msgid "Get one in just a few minutes time"
+msgstr ""
+
+#: inc/class-admin.php:288
+msgid "and report back once you've gotten your license key"
+msgstr ""
+
+#: inc/class-admin.php:307
+msgid "To enable updates and support for Tasty Recipes"
+msgstr ""
+
+#: inc/class-admin.php:307
+msgid "enter a valid license key"
+msgstr ""
+
+#: inc/class-admin.php:312
+msgid "Think you've reached this message in error?"
+msgstr ""
+
+#: inc/class-admin.php:312
+msgid "Submit a support ticket"
+msgstr ""
+
+#: inc/class-admin.php:312
+msgid "and we'll do our best to help out."
+msgstr ""
+
+#: inc/class-admin.php:334
+msgid "Tasty Recipe"
+msgstr ""
+
+#: inc/class-admin.php:418
+#: templates/settings.php:22
+msgid "Settings"
+msgstr ""
+
+#: inc/class-admin.php:426
+msgid "Remove license"
+msgstr ""
+
+#: inc/class-admin.php:458
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: inc/class-admin.php:475
+#: inc/class-admin.php:723
+#: inc/class-admin.php:754
+msgid "Sorry, you don't have permission to do this."
+msgstr ""
+
+#: inc/class-admin.php:735
+msgid "Couldn't count recipes. Please contact support for assistance."
+msgstr ""
+
+#: inc/class-admin.php:766
+msgid "Couldn't convert recipes. Please contact support for assistance."
+msgstr ""
+
+#. translators: Post id that couldn't be translated.
+#: inc/class-admin.php:786
+msgid "Couldn't convert recipe in '%1$s' (post %2$d). Please contact support for assistance."
+msgstr ""
+
+#: inc/class-admin.php:829
+msgid "Quick Links"
+msgstr ""
+
+#: inc/class-admin.php:835
+msgid "Enable or disable quick links below the post title."
+msgstr ""
+
+#: inc/class-admin.php:837
+msgid "Disabled"
+msgstr ""
+
+#: inc/class-admin.php:838
+msgid "Show 'Jump to Recipe' and 'Print Recipe' links"
+msgstr ""
+
+#: inc/class-admin.php:839
+msgid "Only show 'Jump to Recipe' link"
+msgstr ""
+
+#: inc/class-admin.php:840
+msgid "Only show 'Print Recipe' link"
+msgstr ""
+
+#: inc/class-admin.php:846
+msgid "Recipe Card Buttons"
+msgstr ""
+
+#: inc/class-admin.php:853
+msgid "Unit Conversion"
+msgstr ""
+
+#: inc/class-admin.php:859
+msgid "Allow visitors to convert between US Customary and Metric."
+msgstr ""
+
+#: inc/class-admin.php:867
+msgid "Automatically apply unit conversion to existing recipes."
+msgstr ""
+
+#: inc/class-admin.php:892
+msgid "Ingredient Checkboxes"
+msgstr ""
+
+#: inc/class-admin.php:898
+msgid "Allow visitors to check off recipe ingredients."
+msgstr ""
+
+#: inc/class-admin.php:907
+msgid "Scaling"
+msgstr ""
+
+#: inc/class-admin.php:913
+msgid "Allow visitors to scale the recipe 1x, 2x, or 3x."
+msgstr ""
+
+#: inc/class-admin.php:922
+msgid "Copy to Clipboard"
+msgstr ""
+
+#: inc/class-admin.php:928
+msgid "Allow visitors to copy ingredients to clipboard."
+msgstr ""
+
+#: inc/class-admin.php:937
+msgid "Default Author Link"
+msgstr ""
+
+#: inc/class-admin.php:947
+msgid "ShareASale Affiliate ID"
+msgstr ""
+
+#. translators: Various links.
+#: inc/class-admin.php:954
+msgid "<a href=\"%1$s\" target=\"_blank\">Apply for the affiliate program</a>, or <a href=\"%2$s\" target=\"_blank\">find your affiliate ID</a>."
+msgstr ""
+
+#: inc/class-admin.php:1194
+#: templates/designs/bold/tasty-recipes.php:198
+#: templates/designs/fresh/tasty-recipes.php:175
+#: templates/designs/modern-compact/tasty-recipes.php:113
+#: templates/recipe/tasty-recipes.php:108
+msgid "Off"
+msgstr ""
+
+#: inc/class-admin.php:1195
+#: inc/class-shortcodes.php:297
+#: templates/recipe-print-controls.php:16
+msgid "Print"
+msgstr ""
+
+#: inc/class-admin.php:1196
+msgid "Pin this recipe"
+msgstr ""
+
+#: inc/class-admin.php:1197
+msgid "Slickstream Favorites"
+msgstr ""
+
+#: inc/class-admin.php:1198
+msgid "Mediavine Grow.me Save"
+msgstr ""
+
+#: inc/class-assets.php:104
+#: inc/class-assets.php:153
+#: inc/class-assets.php:286
+msgid "Media Library"
+msgstr ""
+
+#: inc/class-assets.php:105
+#: inc/class-assets.php:154
+#: inc/class-assets.php:244
+#: inc/class-assets.php:287
+msgid "Select Image"
+msgstr ""
+
+#: inc/class-assets.php:245
+msgid "Details"
+msgstr ""
+
+#: inc/class-assets.php:246
+msgid "Video URL"
+msgstr ""
+
+#: inc/class-assets.php:247
+#: templates/designs/bold/tasty-recipes.php:261
+#: templates/designs/fresh/tasty-recipes.php:241
+#: templates/designs/modern-compact/tasty-recipes.php:158
+#: templates/recipe-print-controls.php:39
+#: templates/recipe/easyrecipe.php:100
+#: templates/recipe/tasty-recipes.php:153
+msgid "Nutrition"
+msgstr ""
+
+#: inc/class-assets.php:249
+msgid "+ Time"
+msgstr ""
+
+#: inc/class-assets.php:250
+msgid "- Time"
+msgstr ""
+
+#: inc/class-assets.php:251
+msgid "Add an additional time field"
+msgstr ""
+
+#: inc/class-assets.php:252
+msgid "Remove additional time field"
+msgstr ""
+
+#: inc/class-assets.php:253
+msgid "Additional Time Label"
+msgstr ""
+
+#: inc/class-assets.php:254
+msgid "Additional Time Value"
+msgstr ""
+
+#: inc/class-assets.php:263
+msgid "Video Settings: "
+msgstr ""
+
+#: inc/class-assets.php:265
+msgid "Autoplay"
+msgstr ""
+
+#: inc/class-assets.php:266
+msgid "Mute"
+msgstr ""
+
+#: inc/class-assets.php:267
+msgid "Loop"
+msgstr ""
+
+#: inc/class-assets.php:268
+msgid "Hide Controls"
+msgstr ""
+
+#: inc/class-content-model.php:53
+#: inc/class-content-model.php:65
+msgid "Recipes"
+msgstr ""
+
+#: inc/class-content-model.php:54
+msgid "Recipe"
+msgstr ""
+
+#: inc/class-content-model.php:55
+msgid "All Recipes"
+msgstr ""
+
+#: inc/class-content-model.php:56
+msgid "New Recipe"
+msgstr ""
+
+#: inc/class-content-model.php:57
+msgid "Add New"
+msgstr ""
+
+#: inc/class-content-model.php:58
+msgid "Add New Recipe"
+msgstr ""
+
+#: inc/class-content-model.php:59
+#: inc/integrations/elementor/class-recipe-control.php:79
+msgid "Edit Recipe"
+msgstr ""
+
+#: inc/class-content-model.php:60
+msgid "View Recipes"
+msgstr ""
+
+#: inc/class-content-model.php:61
+msgid "Search Recipes"
+msgstr ""
+
+#: inc/class-content-model.php:62
+msgid "No recipes found"
+msgstr ""
+
+#: inc/class-content-model.php:63
+msgid "No recipes found in trash"
+msgstr ""
+
+#: inc/class-content-model.php:64
+msgid "Parent recipe"
+msgstr ""
+
+#. translators: Nutrifox HTTP error code.
+#: inc/class-content-model.php:133
+msgid "Nutrifox API request failed (HTTP code %d)"
+msgstr ""
+
+#. translators: Nutrifox HTTP error code.
+#: inc/class-content-model.php:207
+msgid "Nutrifox conversion API request failed (HTTP code %d)"
+msgstr ""
+
+#: inc/class-content-model.php:241
+msgid "Unknown shortcode in video URL."
+msgstr ""
+
+#: inc/class-content-model.php:260
+msgid "Shortcode is missing video id."
+msgstr ""
+
+#: inc/class-content-model.php:286
+msgid "Unknown provider for URL."
+msgstr ""
+
+#: inc/class-content-model.php:296
+msgid "Invalid response from provider."
+msgstr ""
+
+#. translators: Individual hour.
+#: inc/class-distribution-metadata.php:1235
+msgid "%s hour"
+msgstr ""
+
+#. translators: Multiple hours.
+#: inc/class-distribution-metadata.php:1237
+msgid "%s hours"
+msgstr ""
+
+#. translators: Multiple hours and minutes.
+#: inc/class-distribution-metadata.php:1239
+msgid "%1$s hours %2$s minutes"
+msgstr ""
+
+#. translators: Individual hour but multiple minutes.
+#: inc/class-distribution-metadata.php:1241
+msgid "%1$s hour %2$s minutes"
+msgstr ""
+
+#. translators: Individual minute.
+#: inc/class-distribution-metadata.php:1243
+msgid "%s minute"
+msgstr ""
+
+#. translators: Multiple minutes.
+#: inc/class-distribution-metadata.php:1245
+msgid "%s minutes"
+msgstr ""
+
+#. translators: Number of recipes detected.
+#: inc/class-editor.php:66
+msgid "%1$s recipe detected. Would you like to convert it to Tasty Recipes? <a class=\"button\" href=\"%2$s\">Convert</a>"
+msgstr ""
+
+#: inc/class-editor.php:68
+msgid "<em>Warning: Post revisions are not enabled, please back up post content before converting to Tasty Recipes. <a href=\"https://www.wptasty.com/convert-single\" target=\"_blank\">Learn more</a></em>."
+msgstr ""
+
+#: inc/class-editor.php:127
+msgid "Successfully migrated the recipe to Tasty Recipes. Enjoy!"
+msgstr ""
+
+#: inc/class-editor.php:170
+msgid "Add Recipe"
+msgstr ""
+
+#: inc/class-editor.php:187
+msgid "Add rel=\"nofollow\" to link"
+msgstr ""
+
+#: inc/class-editor.php:260
+#: inc/class-editor.php:265
+#: inc/class-editor.php:271
+#: inc/class-editor.php:296
+#: inc/class-editor.php:301
+#: inc/class-editor.php:307
+msgid "You don't have permission to do this."
+msgstr ""
+
+#: inc/class-editor.php:283
+msgid "Unknown error converting recipe."
+msgstr ""
+
+#: inc/class-editor.php:372
+#: inc/class-editor.php:442
+msgid "No recipe found."
+msgstr ""
+
+#: inc/class-shortcodes.php:331
+#: inc/class-shortcodes.php:344
+msgid "US"
+msgstr ""
+
+#: inc/class-shortcodes.php:333
+#: inc/class-shortcodes.php:342
+msgid "M"
+msgstr ""
+
+#: inc/class-shortcodes.php:369
+#: inc/class-shortcodes.php:380
+msgid "1x"
+msgstr ""
+
+#: inc/class-shortcodes.php:370
+msgid "2x"
+msgstr ""
+
+#: inc/class-shortcodes.php:371
+msgid "3x"
+msgstr ""
+
+#. translators: Ratings from number of reviews.
+#: inc/class-shortcodes.php:643
+msgid "%1$s from %2$s reviews"
+msgstr ""
+
+#: inc/class-shortcodes.php:656
+msgid "Author"
+msgstr ""
+
+#: inc/class-shortcodes.php:820
+msgid "Jump to Recipe"
+msgstr ""
+
+#: inc/class-shortcodes.php:823
+#: templates/buttons/print.php:25
+msgid "Print Recipe"
+msgstr ""
+
+#: inc/class-updater.php:254
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: inc/class-updater.php:262
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr ""
+
+#: inc/class-updater.php:506
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/class-updater.php:506
+msgid "Error"
+msgstr ""
+
+#: inc/integrations/elementor/class-recipe-widget.php:60
+msgid "Content"
+msgstr ""
+
+#: inc/integrations/elementor/class-recipe-widget.php:83
+msgid "No Tasty Recipe created yet. Click 'Edit Recipe' in the widget controls to create one."
+msgstr ""
+
+#: inc/objects/class-recipe.php:62
+msgid "ID"
+msgstr ""
+
+#: inc/objects/class-recipe.php:65
+msgid "Title"
+msgstr ""
+
+#: inc/objects/class-recipe.php:69
+msgid "Author Name"
+msgstr ""
+
+#: inc/objects/class-recipe.php:73
+msgid "Image ID"
+msgstr ""
+
+#: inc/objects/class-recipe.php:76
+#: templates/designs/bold/tasty-recipes.php:132
+#: templates/designs/fresh/tasty-recipes.php:109
+#: templates/recipe-print-controls.php:37
+msgid "Description"
+msgstr ""
+
+#: inc/objects/class-recipe.php:80
+msgid "Description Video Settings"
+msgstr ""
+
+#: inc/objects/class-recipe.php:84
+#: templates/designs/bold/tasty-recipes.php:153
+#: templates/designs/fresh/tasty-recipes.php:130
+#: templates/designs/modern-compact/tasty-recipes.php:75
+#: templates/recipe/easyrecipe.php:61
+#: templates/recipe/tasty-recipes.php:73
+msgid "Ingredients"
+msgstr ""
+
+#: inc/objects/class-recipe.php:88
+msgid "Ingredients Video Settings"
+msgstr ""
+
+#: inc/objects/class-recipe.php:92
+#: templates/designs/bold/tasty-recipes.php:192
+#: templates/designs/fresh/tasty-recipes.php:169
+#: templates/designs/modern-compact/tasty-recipes.php:106
+#: templates/recipe/easyrecipe.php:72
+#: templates/recipe/tasty-recipes.php:102
+msgid "Instructions"
+msgstr ""
+
+#: inc/objects/class-recipe.php:96
+msgid "Instructions Video Settings"
+msgstr ""
+
+#: inc/objects/class-recipe.php:100
+#: templates/designs/bold/tasty-recipes.php:236
+#: templates/designs/fresh/tasty-recipes.php:221
+#: templates/designs/modern-compact/tasty-recipes.php:141
+#: templates/recipe-print-controls.php:38
+#: templates/recipe/easyrecipe.php:83
+#: templates/recipe/tasty-recipes.php:136
+msgid "Notes"
+msgstr ""
+
+#: inc/objects/class-recipe.php:104
+msgid "Notes Video Settings"
+msgstr ""
+
+#: inc/objects/class-recipe.php:108
+#: templates/designs/bold/tasty-recipes.php:272
+#: templates/designs/fresh/tasty-recipes.php:252
+#: templates/designs/modern-compact/tasty-recipes.php:169
+#: templates/recipe/tasty-recipes.php:164
+msgid "Keywords"
+msgstr ""
+
+#: inc/objects/class-recipe.php:112
+msgid "Nutrifox ID"
+msgstr ""
+
+#: inc/objects/class-recipe.php:116
+msgid "Video URL or Shortcode"
+msgstr ""
+
+#: inc/objects/class-recipe.php:120
+msgid "Average Rating"
+msgstr ""
+
+#: inc/objects/class-recipe.php:123
+msgid "Total Reviews"
+msgstr ""
+
+#: inc/objects/class-recipe.php:136
+msgid "Prep Time"
+msgstr ""
+
+#: inc/objects/class-recipe.php:142
+msgid "Cook Time"
+msgstr ""
+
+#: inc/objects/class-recipe.php:146
+msgid "Total Time"
+msgstr ""
+
+#: inc/objects/class-recipe.php:149
+msgid "Default to prep + cook."
+msgstr ""
+
+#: inc/objects/class-recipe.php:152
+msgid "Yield"
+msgstr ""
+
+#: inc/objects/class-recipe.php:156
+msgid "Category"
+msgstr ""
+
+#: inc/objects/class-recipe.php:160
+msgid "Method"
+msgstr ""
+
+#: inc/objects/class-recipe.php:164
+msgid "Cuisine"
+msgstr ""
+
+#: inc/objects/class-recipe.php:168
+msgid "Diet"
+msgstr ""
+
+#: inc/objects/class-recipe.php:171
+msgid "N/A"
+msgstr ""
+
+#: inc/objects/class-recipe.php:172
+msgid "Diabetic"
+msgstr ""
+
+#: inc/objects/class-recipe.php:173
+msgid "Gluten Free"
+msgstr ""
+
+#: inc/objects/class-recipe.php:174
+msgid "Halal"
+msgstr ""
+
+#: inc/objects/class-recipe.php:175
+msgid "Hindu"
+msgstr ""
+
+#: inc/objects/class-recipe.php:176
+msgid "Kosher"
+msgstr ""
+
+#: inc/objects/class-recipe.php:177
+msgid "Low Calorie"
+msgstr ""
+
+#: inc/objects/class-recipe.php:178
+msgid "Low Fat"
+msgstr ""
+
+#: inc/objects/class-recipe.php:179
+msgid "Low Lactose"
+msgstr ""
+
+#: inc/objects/class-recipe.php:180
+msgid "Low Salt"
+msgstr ""
+
+#: inc/objects/class-recipe.php:181
+msgid "Vegan"
+msgstr ""
+
+#: inc/objects/class-recipe.php:182
+msgid "Vegetarian"
+msgstr ""
+
+#: inc/objects/class-recipe.php:196
+msgid "Serving Size"
+msgstr ""
+
+#: inc/objects/class-recipe.php:201
+msgid "Calories"
+msgstr ""
+
+#: inc/objects/class-recipe.php:206
+msgid "Sugar"
+msgstr ""
+
+#: inc/objects/class-recipe.php:211
+msgid "Sodium"
+msgstr ""
+
+#: inc/objects/class-recipe.php:216
+msgid "Fat"
+msgstr ""
+
+#: inc/objects/class-recipe.php:221
+msgid "Saturated Fat"
+msgstr ""
+
+#: inc/objects/class-recipe.php:226
+msgid "Unsaturated Fat"
+msgstr ""
+
+#: inc/objects/class-recipe.php:230
+msgid "Trans Fat"
+msgstr ""
+
+#: inc/objects/class-recipe.php:235
+msgid "Carbohydrates"
+msgstr ""
+
+#: inc/objects/class-recipe.php:240
+msgid "Fiber"
+msgstr ""
+
+#: inc/objects/class-recipe.php:245
+msgid "Protein"
+msgstr ""
+
+#: inc/objects/class-recipe.php:250
+msgid "Cholesterol"
+msgstr ""
+
+#: tasty-recipes.php:591
+msgid "Share a photo and tag us — we can't wait to see what you've made!"
+msgstr ""
+
+#: tasty-recipes.php:594
+msgid "Tag"
+msgstr ""
+
+#: tasty-recipes.php:594
+msgid "on Instagram"
+msgstr ""
+
+#: tasty-recipes.php:597
+msgid "and hashtag it"
+msgstr ""
+
+#: tasty-recipes.php:619
+msgid "Did you make this recipe?"
+msgstr ""
+
+#: templates/about.php:51
+msgid "Welcome to Tasty Recipes! 🎉"
+msgstr ""
+
+#: templates/about.php:57
+msgid "Tasty Recipes is a fast, simple, and SEO-optimized recipe plugin for food bloggers. By purchasing Tasty Recipes, you're getting access to an impecable recipe creation experience, superior code quality, and a helpful support team ready to answer all your questions."
+msgstr ""
+
+#: templates/about.php:59
+msgid "Getting Started"
+msgstr ""
+
+#: templates/about.php:61
+msgid "Tasty Recipes is extremely easy to configure. Visit the settings page to select a recipe card theme, add your Instagram information, and set the default Author URL."
+msgstr ""
+
+#: templates/about.php:63
+msgid "Visit Settings"
+msgstr ""
+
+#: templates/about.php:65
+msgid "Convert Recipes"
+msgstr ""
+
+#: templates/about.php:67
+msgid "Tasty Recipes converts recipes from many sources, including WP Recipe Maker, Easy Recipe, Zip Recipes, and more. We recommend converting a single recipe first to try out the conversion process, then converting everything in bulk once you're satisfied."
+msgstr ""
+
+#: templates/about.php:72
+msgid "Read more about %1$s and %2$s."
+msgstr ""
+
+#: templates/about.php:75
+msgid "converting recipes individually"
+msgstr ""
+
+#: templates/about.php:79
+msgid "converting recipes in bulk"
+msgstr ""
+
+#: templates/about.php:91
+msgid "Create New Recipes"
+msgstr ""
+
+#: templates/about.php:93
+msgid "Creating new recipes is easy. Just add a new \"Tasty Recipe\" block to a post and you'll be on your way."
+msgstr ""
+
+#: templates/about.php:95
+msgid "We recommend filling out all the fields for the best SEO potential. Tasty Recipes creates amazing structured data - but it needs the proper information in order to do it!"
+msgstr ""
+
+#: templates/about.php:97
+msgid "Visit Our Documentation"
+msgstr ""
+
+#: templates/about.php:99
+msgid "We pride ourselves on our plugin documentation. If you have questions, head on over to our support site - your question is likely answered there! If not, send us a quick chat and we'll be happy to help."
+msgstr ""
+
+#: templates/about.php:101
+msgid "Visit Documentation"
+msgstr ""
+
+#: templates/buttons/mediavine.php:16
+#: templates/buttons/slickstream.php:16
+msgid "Save Recipe"
+msgstr ""
+
+#: templates/buttons/mediavine.php:20
+#: templates/buttons/slickstream.php:20
+msgid "Recipe Saved"
+msgstr ""
+
+#: templates/buttons/pin.php:38
+msgid "Pin Recipe"
+msgstr ""
+
+#: templates/designs/bold/tasty-recipes.php:161
+#: templates/designs/fresh/tasty-recipes.php:138
+#: templates/designs/modern-compact/tasty-recipes.php:83
+#: templates/recipe/tasty-recipes.php:81
+msgid "Units"
+msgstr ""
+
+#: templates/designs/bold/tasty-recipes.php:167
+#: templates/designs/fresh/tasty-recipes.php:144
+#: templates/designs/modern-compact/tasty-recipes.php:89
+#: templates/recipe/tasty-recipes.php:87
+msgid "Scale"
+msgstr ""
+
+#: templates/designs/bold/tasty-recipes.php:195
+#: templates/designs/fresh/tasty-recipes.php:172
+#: templates/designs/modern-compact/tasty-recipes.php:110
+#: templates/recipe/tasty-recipes.php:105
+msgid "Video"
+msgstr ""
+
+#: templates/designs/bold/tasty-recipes.php:197
+#: templates/designs/fresh/tasty-recipes.php:174
+#: templates/designs/modern-compact/tasty-recipes.php:112
+#: templates/recipe/tasty-recipes.php:107
+msgid "On"
+msgstr ""
+
+#: templates/designs/bold/tasty-recipes.php:229
+#: templates/designs/fresh/tasty-recipes.php:207
+#: templates/designs/modern-compact/tasty-recipes.php:134
+#: templates/recipe/tasty-recipes.php:129
+msgid "Equipment"
+msgstr ""
+
+#: templates/designs/bold/tasty-recipes.php:295
+#: templates/designs/fresh/tasty-recipes.php:274
+#: templates/designs/modern-compact/tasty-recipes.php:180
+#: templates/recipe/tasty-recipes.php:175
+msgid "Find it online"
+msgstr ""
+
+#: templates/recipe-editor.php:12
+msgid "Close Modal"
+msgstr ""
+
+#: templates/recipe-editor.php:25
+msgid "Insert"
+msgstr ""
+
+#: templates/recipe-editor.php:26
+msgid "Update"
+msgstr ""
+
+#: templates/recipe-print-controls.php:19
+msgid "Options"
+msgstr ""
+
+#: templates/recipe-print-controls.php:33
+msgid "Include in print view:"
+msgstr ""
+
+#: templates/recipe-print-controls.php:36
+msgid "Images"
+msgstr ""
+
+#: templates/recipe-print-controls.php:48
+msgid "Text size:"
+msgstr ""
+
+#: templates/recipe-print-controls.php:52
+msgid "Small"
+msgstr ""
+
+#: templates/recipe-print-controls.php:53
+msgid "Medium"
+msgstr ""
+
+#: templates/recipe-print-controls.php:54
+msgid "Large"
+msgstr ""
+
+#: templates/settings.php:21
+msgid "Design"
+msgstr ""
+
+#: templates/settings.php:23
+msgid "Converters"
+msgstr ""
+
+#: templates/settings.php:25
+msgid "Debug"
+msgstr ""
+
+#: templates/settings.php:27
+msgid "About"
+msgstr ""
+
+#: templates/settings.php:28
+msgid "Support and documentation"
+msgstr ""
+
+#: templates/settings.php:45
+msgid "Looks like you're using a custom recipe card template. To enable design customization options, you'll need to remove the custom tasty-recipes.php file from your theme folder."
+msgstr ""
+
+#: templates/settings.php:88
+msgid "Convert Existing Recipes"
+msgstr ""
+
+#. translators: Link to the conversion page.
+#: templates/settings.php:92
+msgid "Just in case, we recommend backing up your database before converting your recipes in bulk to Tasty Recipes. <a target=\"_blank\" href=\"%s\">Learn more about backing up your database</a>."
+msgstr ""
+
+#: templates/settings.php:95
+msgid "Select an option from the left to start converting recipes."
+msgstr ""
+
+#: templates/settings.php:101
+msgid "Close Converter"
+msgstr ""
+
+#. translators: Source of the conversion.
+#: templates/settings.php:106
+msgid "Convert recipes from %s"
+msgstr ""
+
+#: templates/settings.php:111
+msgid "Determining whether there are any recipes to convert."
+msgstr ""
+
+#. translators: Source of the conversion.
+#: templates/settings.php:119
+msgid "Converting recipes from %s. Leave this window open until the conversion is complete."
+msgstr ""
+
+#. translators: Source of the conversion.
+#: templates/settings.php:127
+msgid "%s conversion complete. You may now close this converter."
+msgstr ""
+
+#. translators: Singular number of recipes, source.
+#: templates/settings.php:142
+msgid "%1$s recipe was found to convert from %2$s."
+msgstr ""
+
+#. translators: Plural number of recipes, source.
+#: templates/settings.php:149
+msgid "%1$s recipes were found to convert from %2$s."
+msgstr ""
+
+#: templates/settings.php:153
+msgid "Start Conversion"
+msgstr ""
+
+#. translators: Source of the conversion.
+#: templates/settings.php:158
+msgid "No %s recipes were found to convert."
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:57
+msgid "Create Tasty Recipe"
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:96
+msgid "No Tasty Recipe created yet. Click here to start one."
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:125
+msgid "Edit Tasty Recipe"
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:152
+msgid "Recipe options"
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:156
+msgid "This is a non-food recipe (craft, cleaning product, etc)"
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:168
+msgid "Override Author Link"
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:177
+msgid "Disable unit conversion for this recipe"
+msgstr ""
+
+#: assets/block-editor/recipe-block.js:189
+msgid "Disable scaling for this recipe"
+msgstr ""
